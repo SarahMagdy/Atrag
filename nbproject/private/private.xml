@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/var/www/html/Atrag/application/views/Employees/AddEmployee.php</file>
+            <file>file:/var/www/html/Atrag/application/controllers/verifylogin.php</file>
+            <file>file:/var/www/html/Atrag/application/controllers/employee.php</file>
+            <file>file:/var/www/html/Atrag/application/views/Inbox/inbox.php</file>
+            <file>file:/var/www/html/Atrag/application/views/manger/upload_file_view.php</file>
+            <file>file:/var/www/html/Atrag/application/config/database.php</file>
+            <file>file:/var/www/html/Atrag/application/views/Employees/EmployeeProfile.php</file>
+            <file>file:/var/www/html/Atrag/application/views/Inbox/UserInbox.php</file>
+            <file>file:/var/www/html/Atrag/application/views/MenuBar.php</file>
+            <file>file:/var/www/html/Atrag/application/config/config.php</file>
+            <file>file:/var/www/html/Atrag/application/models/employeemodel.php</file>
+        </group>
+    </open-files>
+</project-private>
